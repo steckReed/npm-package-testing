@@ -1,0 +1,22 @@
+{
+  "name": "full-steck-demo",
+  "version": "1.0.0",
+  "description": "Uhh... this thing on?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steckReed/npm-package-testing.git"
+  },
+  "keywords": [
+    "full-steck-demo"
+  ],
+  "author": "Reed Steck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steckReed/npm-package-testing/issues"
+  },
+  "homepage": "https://github.com/steckReed/npm-package-testing#readme"
+}
